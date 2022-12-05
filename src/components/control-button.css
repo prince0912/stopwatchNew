@@ -1,0 +1,37 @@
+<pre > Control-button {
+  margin: 3rem 0;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn {
+  font-family: sans-serif;
+  height: 10vh;
+  width: 35vw;
+  border-radius: 10px;
+  margin: 25px 6px;
+  display: flex;
+  justify-content: center;
+  flex-direction: center;
+  align-items: center;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.btn-grp {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.btn-one {
+  background-color: #e42a2a;
+}
+
+.btn-two {
+}
